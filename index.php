@@ -23,60 +23,54 @@
 	<div class="divider"></div>
 
 	<div class="section">
-		<h3>Auditoorne õppetöö</h3>
-		<p>&Otilde;ppejõud Mart Mangus / <a href="mailto:mart@mangus.ee">mart@mangus.ee</a></p>
-
 		<div class="row">
 			<div class="col s6">
-				<h4>Loengud</h4>
-				<span>...</span>
-
+				<h3>Auditoorne õppetöö</h3>
+				<ul>
+					<li><a href="sess1/">1. sessioon</a> (30. märts 2017)</li>
+					<li>2. sessioon (20. aprill 2017)</li>
+					<li>3. sessioon (4. mai 2017)</li>
+					<li>4. sessioon (18. mai 2017)</li>
+					<li>5. sessioon (1. juuni 2017)</li>
+					<li>Eksam (15. juuni 2017)</li>
+				</ul>
 			</span>
 			</div>
 			<div class="col s6">
-				<h4>Praktikumid</h4>
-
-				<div>
-					<span>...</span>
-
-				</div>
+				<h3>Õppejõud</h3>
+				<p>Mart Mangus / <a href="mailto:mart@mangus.ee">mart@mangus.ee</a></p>
 			</div>
 		</div>
-
 	</div>
 
 	<div class="divider"></div>
 
 	<div class="section">
 		<h3>Iseseisev õppetöö</h3>
+		<p>Iga nädal tuleb iseseisvalt lahendada ette antud ülesanded ning arendada oma kodust projekti.</p>
+		<p>Tulemused on vaja saata aruande vormi kaudu iga nädal. Need aruanded moodustavad 40% aine hindest.</p>
 	</div>
 
 	<div class="divider"></div>
 
 	<div class="section">
 		<h3>Kodune projekt</h3>
-		<p>...</p>
-		<ol>
-			<li>...</li>
-
-		</ol>
+		<p>Iga õpilane koostab iseseisvalt kodus ühe suurema rakenduse.</p>
+		<p>Projekti sisu mõtleb igaüks ise välja: selleks võiks olla endale huvitaval teemal praktiline rakendus või mäng vms.</p>
 		<ul class="collection with-header">
 			<h5>Olulised punktid on:</h5>
 			<li class="collection-item">Kood versioonihalduses juba projekti alguses,</li>
 			<li class="collection-item">Töötav demorakendus avalikult ligipääsetav,</li>
-			<li class="collection-item">Andmebaasi kasutamine,</li>
-			<li class="collection-item">HTML-i, CSS-i ja Javascripti kasutamine kasutajaliideses,</li>
-			<li class="collection-item">Rakenduse turvalisus,</li>
 			<li class="collection-item">Koodide vastamine standarditele (HTML validaator jne).</li>
+			<li class="collection-item">Täpsemad nõudmised tulevad kursuse jooksul.</li>
 		</ul>
 	</div>
 
 	<div class="divider"></div>
 	<div class="section">
 		<h3>Eksam</h3>
-		<p>
-			...
-		</p>
+		<p>Eksamil on vaja kaitsta oma kodust projekti.</p>
+		<p>Kaitsmise protseduur: õpilane demob oma rakenduse tööd ja koodi klassi ees; vastab küsimustele ning vajadusel muudab/täiendab jooksvalt oma programmi.</p>
 	</div>
 
 	<div class="divider"></div>
