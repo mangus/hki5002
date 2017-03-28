@@ -37,6 +37,7 @@
                 <li>Versioonihaldus: commit, push, pull</li>
                 <li>Java, Javascript, klient, server</li>
                 <li>Muutuja, massiiv, meetod?</li>
+                <li>Treppimine</li>
                 <li>Klass, objekt?</li>
                 <li>Staatiline meetod?</li>
                 <li>Abstraktne klass?</li>

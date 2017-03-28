@@ -47,8 +47,71 @@
 
 	<div class="section">
 		<h3>Iseseisev õppetöö</h3>
-		<p>Iga nädal tuleb iseseisvalt lahendada ette antud ülesanded ning arendada oma kodust projekti.</p>
-		<p>Tulemused on vaja saata aruande vormi kaudu iga nädal. Need aruanded moodustavad 40% aine hindest.</p>
+		<p>Iga nädal tuleb iseseisvalt lahendada ette antud ülesanded ja/või arendada oma kodust projekti.<br />
+		Tulemused on vaja saata <a target="_blank" href="https://goo.gl/forms/Rudiu48mBe9WjrfI3">aruande vormi</a> kaudu iga nädal. Need aruanded moodustavad 40% aine hindest.</p>
+
+		<table class="striped" style="table-layout:fixed;">
+		<colgroup>
+			<col width="3%">
+			<col width="80%">
+			<col width="17%">
+		</colgroup>
+			<tr>
+				<th>Nr</th>
+				<th>Ülesanne</th>
+				<th>Aruande tähtaeg</th>
+			</tr>
+			<tr>
+				<td>1</td>
+				<td>Tee lõpuni 1. sessiooni ülesanded (vähemalt kuni objektideni leheküljel 10).</td>
+				<td>09.04.2017 23:59</td>
+			</tr>
+			<tr>
+				<td>2</td>
+				<td>Jätka <a href="http://minitorn.tlu.ee/~jaagup/kool/java/loeng/veebijatk/veebijatk.pdf">Jaagup Kippari materjalidega</a> lehekülgedel 10 kuni 12.</td>
+				<td>16.04.2017 23:59</td>
+			</tr>
+			<tr>
+				<td>3</td>
+				<td>Alusta koduse projektiga: mõtle välja, mida tegema hakkad; tee valmis rakenduse kõige lihtsamad osad.</td>
+				<td>23.04.2017 23:59</td>
+			</tr>
+			<tr>
+				<td>4</td>
+				<td>...</td>
+				<td>30.04.2017 23:59</td>
+			</tr>
+			<tr>
+				<td>5</td>
+				<td>...</td>
+				<td>07.05.2017 23:59</td>
+			</tr>
+			<tr>
+				<td>6</td>
+				<td>...</td>
+				<td>14.05.2017 23:59</td>
+			</tr>
+			<tr>
+				<td>7</td>
+				<td>...</td>
+				<td>21.05.2017 23:59</td>
+			</tr>
+			<tr>
+				<td>8</td>
+				<td>...</td>
+				<td>28.05.2017 23:59</td>
+			</tr>
+			<tr>
+				<td>9</td>
+				<td>...</td>
+				<td>04.06.2017 23:59</td>
+			</tr>
+			<tr>
+				<td>10</td>
+				<td>...</td>
+				<td>11.06.2017 23:59</td>
+			</tr>
+		</table>
 	</div>
 
 	<div class="divider"></div>
@@ -90,9 +153,9 @@
 			<h4>See lehekülg</h4>
 			<p>
 				Kui leiad trükivea või tahad seda lehte niisama sisulisemaks/ilusamaks/huvitavamaks teha, siis palun väga:
-				<a target="_blank" href="https://github.com/mangus/hki5002">tee pull request GitHub-is</a>.
+				<a target="_blank" href="https://github.com/mangus/hki5002">tee pull request GitHub-is</a>.<br />
+				Asjalike täienduste eest lisapunktid!
 			</p>
-			<p>Asjalike täienduste eest lisapunktid!</p>
 		</blockquote>
 	</div>
 	</div>
@@ -108,6 +171,7 @@
 					<ul>
 						<li><a class="grey-text text-lighten-3" target="_blank" href="https://github.com/mangus/hki5002">Git</a></li>
 						<li><a class="grey-text text-lighten-3" target="_blank" href="https://gitter.im/hki5002/">Jututuba</a></li>
+						<li><a class="grey-text text-lighten-3" target="_blank" href="https://goo.gl/forms/Rudiu48mBe9WjrfI3">Iganädalane aruanne</a></li>
 					</ul>
 				</div>
 			</div>
