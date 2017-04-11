@@ -68,7 +68,7 @@
 			</tr>
 			<tr>
 				<td>2</td>
-				<td>Jätka <a href="http://minitorn.tlu.ee/~jaagup/kool/java/loeng/veebijatk/veebijatk.pdf">Jaagup Kippari materjalidega</a> lehekülgedel 10 kuni 12.</td>
+				<td>Jätka <a href="http://minitorn.tlu.ee/~jaagup/kool/java/loeng/veebijatk/veebijatk.pdf">Jaagup Kippari materjalidega</a> kuni ülesandeni "Mitu kalkulaatorit lehel", lehekülgedel 10 kuni 12.</td>
 				<td>16.04.2017 23:59</td>
 			</tr>
 			<tr>
