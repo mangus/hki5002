@@ -130,12 +130,6 @@
     </div>
     <div class="divider"></div>
     <div class="section">
-        <h3>Hinneteleht</h3>
-        <a href="https://docs.google.com/spreadsheets/d/1qqHICT7NxG3EAAfX8XBeRQgDtp7vDHuxpE6ZyeM8lEA/edit#gid=0">Hinneteleht on saadaval siin.</a>
-    </div>
-
-    <div class="divider"></div>
-    <div class="section">
         <h3>Eksam</h3>
         <p>Eksamil on vaja kaitsta oma kodust projekti.</p>
         <p>Kaitsmise protseduur: õpilane demob oma rakenduse tööd ja koodi klassi ees; vastab küsimustele ning vajadusel muudab/täiendab jooksvalt oma programmi.</p>
@@ -177,6 +171,7 @@
                     <li><a class="grey-text text-lighten-3" target="_blank" href="https://github.com/mangus/hki5002">Git</a></li>
                     <li><a class="grey-text text-lighten-3" target="_blank" href="https://gitter.im/hki5002/">Jututuba</a></li>
                     <li><a class="grey-text text-lighten-3" target="_blank" href="https://goo.gl/forms/Rudiu48mBe9WjrfI3">Iganädalane aruanne</a></li>
+                    <li><a class="grey-text text-lighten-3" target="_blank" href="https://docs.google.com/spreadsheets/d/1qqHICT7NxG3EAAfX8XBeRQgDtp7vDHuxpE6ZyeM8lEA/edit#gid=0">Hinneteleht</a></li>
                 </ul>
             </div>
         </div>
