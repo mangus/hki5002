@@ -122,9 +122,12 @@
         <p>Projekti sisu mõtleb igaüks ise välja: selleks võiks olla endale huvitaval teemal praktiline rakendus või mäng vms.</p>
         <ul class="collection with-header">
             <h5>Olulised punktid on:</h5>
-            <li class="collection-item">Kood versioonihalduses juba projekti alguses,</li>
-            <li class="collection-item">Töötav demorakendus avalikult ligipääsetav,</li>
-            <li class="collection-item">Koodide vastamine standarditele (HTML validaator jne).</li>
+            <li class="collection-item">kood versioonihalduses juba projekti alguses,</li>
+            <li class="collection-item">töötav demorakendus avalikult ligipääsetav,</li>
+            <li class="collection-item">programmi struktureerimine: objekt-orienteeritud lähenemine,</li>
+            <li class="collection-item">ilus treppimine, läbi mõeldud muutujate ja klasside nimetamine, valideeruv HTML,</li>
+            <li class="collection-item">kood kenasti failidesse ja kataloogidesse jaotatud (-- ei ole kõik kood ühes failis).</li>
+            <li class="collection-item">Kui kasutate kellegi teise kirjutatud kood, siis tuleb seda kindlasti mainida ja viidata koodi päritolule!</li>
             <li class="collection-item">Täpsemad nõudmised tulevad kursuse jooksul.</li>
         </ul>
     </div>
