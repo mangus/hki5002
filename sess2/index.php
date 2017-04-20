@@ -33,6 +33,7 @@
             Jätkame <a href="http://minitorn.tlu.ee/~jaagup/kool/java/loeng/veebijatk/veebijatk.pdf">Jaagup Kippari materjalidega</a>:
             <ol>
                 <li>vaatame "Mitu kalkulaatorit lehel" ja teeme sissejuhatuse objekt-orienteeritusse,</li>
+                <li>kasuta Javascripti klasside kirjeldamiseks <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes">sellist stiili</a>,</li>
                 <li>teeme läbi lihtsa <a href="https://try.github.io/">Git-i tutorial-i</a>,</li>
                 <li>kasuta oma töö juures aktiivselt versioonihaldust, kui elementaarne tase on saavutatud, siis kasuta ka harusid (branches),</li>
                 <li>pane käima ka "Kalkulaatorite parameetrid" ja lahenda seal all olevad ülesanded,</li>
