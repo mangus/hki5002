@@ -39,6 +39,7 @@
                 <li>pane käima ka "Kalkulaatorite parameetrid" ja lahenda seal all olevad ülesanded,</li>
                 <li>jätka "Andmete talletamine objektis" + sealsed ülesanded,</li>
                 <li>kui jääb aega, siis uuri materjalides järgnevana tulevat "Objekti graafilist väljundit" ja sealseid ülesandeid.</li>
+                <li>Tee Fork ja oma esimene pull request</li>
             </ol>
         </div>
     </div>
