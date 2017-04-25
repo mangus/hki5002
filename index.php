@@ -78,12 +78,12 @@
             </tr>
             <tr>
                 <td>4</td>
-                <td>...</td>
+                <td>Tee lõpuni <a href="sess2">2. sessiooni ülesanded</a>, püüa kasutada <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes">ilusat Javascripti koodi</a>. Kui see on valmis, siis jätka koduse projektiga.</td>
                 <td>30.04.2017 23:59</td>
             </tr>
             <tr>
                 <td>5</td>
-                <td>...</td>
+                <td>Jätka koduse projektiga, lõpeta 3. sessiooni ülesanded.</td>
                 <td>07.05.2017 23:59</td>
             </tr>
             <tr>
