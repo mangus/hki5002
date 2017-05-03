@@ -83,12 +83,12 @@
             </tr>
             <tr>
                 <td>5</td>
-                <td>Jätka koduse projektiga, lõpeta 3. sessiooni ülesanded.</td>
+                <td>Lõpeta <a href="sess3">3. sessiooni ülesanded</a>.</td>
                 <td>07.05.2017 23:59</td>
             </tr>
             <tr>
                 <td>6</td>
-                <td>...</td>
+                <td>Jätka koduse projektiga: pane käima rakenduse põhiline funktsionaalsus.</td>
                 <td>14.05.2017 23:59</td>
             </tr>
             <tr>
