@@ -30,7 +30,7 @@
                     <li><a href="sess1/">1. sessioon</a> (30. märts 2017)</li>
                     <li><a href="sess2/">2. sessioon</a> (20. aprill 2017)</li>
                     <li><a href="sess2/">3. sessioon</a> (4. mai 2017)</li>
-                    <li>4. sessioon (18. mai 2017)</li>
+                    <li><a href="sess4/">4. sessioon</a> (18. mai 2017)</li>
                     <li>5. sessioon (1. juuni 2017)</li>
                     <li>Eksam (15. juuni 2017)</li>
                 </ul>
