@@ -98,12 +98,12 @@
             </tr>
             <tr>
                 <td>8</td>
-                <td>...</td>
+                <td>Tee tutvust Node.js'i ja Socket.io'ga läbi <a href="https://socket.io/get-started/chat/">selle tutooriali</a>.</td>
                 <td>28.05.2017 23:59</td>
             </tr>
             <tr>
                 <td>9</td>
-                <td>...</td>
+                <td>Jätka koduse projektiga, enam ei ole palju aega jäänud...</td>
                 <td>04.06.2017 23:59</td>
             </tr>
             <tr>
