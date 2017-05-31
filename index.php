@@ -31,7 +31,7 @@
                     <li><a href="sess2/">2. sessioon</a> (20. aprill 2017)</li>
                     <li><a href="sess2/">3. sessioon</a> (4. mai 2017)</li>
                     <li><a href="sess4/">4. sessioon</a> (18. mai 2017)</li>
-                    <li>5. sessioon (1. juuni 2017)</li>
+                    <li><a href="sess5/">5. sessioon (1. juuni 2017)</a></li>
                     <li>Eksam (15. juuni 2017)</li>
                 </ul>
                 </span>
@@ -108,7 +108,7 @@
             </tr>
             <tr>
                 <td>10</td>
-                <td>...</td>
+                <td>Tegele oma koduse projektiga, aruandes kirjuta progressist.</td>
                 <td>11.06.2017 23:59</td>
             </tr>
         </table>
