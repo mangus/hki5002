@@ -17,7 +17,6 @@
                 <li>Vaatame üle tudengite kodused tegemised. Uurime ja vaatame ka kuidas läheb koduse projektiga.</li>
                 <li>Kristjan räägib ja näitab, kuida Javascript-i arendust teha.</li>
                 <li>Kordame põhimõisteid ja tegeleme koduste projektidega.</li>
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes
             </ul>
         </div>
 
